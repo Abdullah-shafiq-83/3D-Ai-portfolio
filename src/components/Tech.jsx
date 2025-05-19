@@ -2,7 +2,7 @@ import React from "react";
 import { BallCanvas } from "./canvas";
 import { SectionWrapper } from "../hoc";
 import { technologies } from "../constants";
-import Tilt from "../components/Tilt"; // Adjust path if needed
+import Tilt from "./Tilt.jsx"; // Adjust path if needed
 
 const Tech = () => {
   return (
