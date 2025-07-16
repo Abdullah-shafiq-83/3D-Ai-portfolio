@@ -117,7 +117,7 @@ const technologies = [
 const experiences = [
   {
     title: "AI Engineer",
-    company_name: "Starbucks",
+    company_name: "Cybergen/USA",
     icon: starbucks,
     iconBg: "#383E56",
     date: "July 2024 - July 2025",
