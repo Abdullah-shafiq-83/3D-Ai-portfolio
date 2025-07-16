@@ -23,7 +23,6 @@ import {
   jobit,
   tripguide,
   threejs,
-  flutterlogo,
 } from "../assets";
 
 export const navLinks = [
@@ -71,7 +70,7 @@ const technologies = [
   },
   {
     name: "JavaScript",
-    icon: flutterlogo,
+    icon: javascript,
   },
   {
     name: "TypeScript",
