@@ -20,15 +20,24 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import Flutter from "./tech/flutterlogo.png"
+import Dart from "./tech/dartlogo.png"
+import Firebase from "./tech/firebaseicon.png"
+import Android from "./tech/androidicon.png"
+import Xcode from "./tech/xcodeicon.png"
+import Python from "./tech/pythonicon.png"
+import Tensorflow from "./tech/tensorflowicon.png"
+import Shopify from "./tech/shopifyicon.png"
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import Cybergen from "./company/cglogo.png";
+import Ecommerce from "./company/Ecommercelogo.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+
 
 export {
   logo,
@@ -54,9 +63,19 @@ export {
   threejs,
   meta,
   shopify,
-  starbucks,
-  tesla,
+  // starbucks,
+  // tesla,
   carrent,
   jobit,
   tripguide,
+  Flutter,
+  Dart,
+  Firebase,
+  Android,
+  Xcode,
+  Python,
+  Tensorflow,
+  Shopify,
+  Cybergen,
+  Ecommerce,
 };

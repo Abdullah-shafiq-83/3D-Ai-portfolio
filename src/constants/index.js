@@ -16,13 +16,23 @@ import {
   figma,
   docker,
   meta,
-  starbucks,
-  tesla,
+  // starbucks,
+  // tesla,
   shopify,
   carrent,
   jobit,
   tripguide,
   threejs,
+  Flutter,
+  Dart,
+  Firebase,
+  Android,
+  Xcode,
+  Python,
+  Tensorflow,
+  Shopify,
+  Cybergen,
+  Ecommerce,
 } from "../assets";
 
 export const navLinks = [
@@ -73,40 +83,40 @@ const technologies = [
     icon: javascript,
   },
   {
-    name: "TypeScript",
-    icon: typescript,
+    name: "Flutter",
+    icon: Flutter,
   },
   {
-    name: "React JS",
-    icon: reactjs,
+    name: "Dart",
+    icon: Dart,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
+    name: "Firebase",
+    icon: Firebase,
   },
   {
-    name: "Tailwind CSS",
-    icon: tailwind,
+    name: "Android",
+    icon: Android,
   },
   {
-    name: "Node JS",
-    icon: nodejs,
+    name: "Xcode",
+    icon: Xcode,
   },
   {
-    name: "MongoDB",
-    icon: mongodb,
+    name: "Python",
+    icon: Python,
   },
   {
-    name: "Three JS",
-    icon: threejs,
+    name: "Tensorflow",
+    icon: Tensorflow,
   },
   {
     name: "git",
     icon: git,
   },
   {
-    name: "figma",
-    icon: figma,
+    name: "Shopify",
+    icon: Shopify,
   },
   {
     name: "docker",
@@ -118,7 +128,7 @@ const experiences = [
   {
     title: "AI Engineer",
     company_name: "Cybergen/USA",
-    icon: starbucks,
+    icon: Cybergen,
     iconBg: "#383E56",
     date: "July 2024 - July 2025",
     points: [
@@ -131,7 +141,7 @@ const experiences = [
   {
     title: "Flutter Developer",
     company_name: "E-commerce Gallaxy",
-    icon: tesla,
+    icon: Ecommerce,
     iconBg: "#E6DEDD",
     date: "Jan 2023 - Feb 2024",
     points: [
