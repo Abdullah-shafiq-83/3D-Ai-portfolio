@@ -153,16 +153,17 @@ const experiences = [
   },
   {
     title: "Web Developer",
-    company_name: "Shopify",
+    company_name: "Hexon",
     icon: shopify,
     iconBg: "#383E56",
     date: "Jan 2022 - Jan 2023",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
+    points:[
+  "Developing and maintaining custom WordPress and Shopify themes using PHP, Liquid, HTML, CSS, and JavaScript.",
+  "Collaborating with designers, project managers, and developers to deliver optimized, scalable websites.",
+  "Implementing responsive layouts and ensuring performance and cross-browser compatibility.",
+  "Participating in code reviews and maintaining clean, well-documented code across projects.",
+],
+
   },
   {
     title: "Full stack Developer",
