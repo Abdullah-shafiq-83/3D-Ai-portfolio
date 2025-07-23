@@ -32,7 +32,7 @@ import Shopify from "./tech/shopifyicon.png"
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import Cybergen from "./company/cglogo.png";
-import Ecommerce from "./company/Ecommercelogo.png";
+import Ecommerce from "./company/ecommercelogo.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
