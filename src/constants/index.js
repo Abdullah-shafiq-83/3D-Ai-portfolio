@@ -18,7 +18,7 @@ import {
   meta,
   // starbucks,
   // tesla,
-  shopify,
+  // shopify,
   carrent,
   jobit,
   tripguide,
@@ -33,6 +33,7 @@ import {
   Shopify,
   Cybergen,
   Ecommerce,
+  Hexon,
 } from "../assets";
 
 export const navLinks = [
@@ -154,7 +155,7 @@ const experiences = [
   {
     title: "Web Developer",
     company_name: "Hexon",
-    icon: shopify,
+    icon: Hexon,
     iconBg: "#383E56",
     date: "Jan 2022 - Jan 2023",
     points:[
