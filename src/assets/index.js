@@ -30,7 +30,7 @@ import Tensorflow from "./tech/tensorflowicon.png"
 import Shopify from "./tech/shopifyicon.png"
 import Ecommerce from "./company/newecom.png";
 import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
+import Hexon from "./company/hexonlogo.png";
 import Cybergen from "./company/cglogo.png";
 
 
@@ -62,7 +62,7 @@ export {
   typescript,
   threejs,
   meta,
-  shopify,
+  // shopify,
   // starbucks,
   // tesla,
   carrent,
@@ -78,4 +78,5 @@ export {
   Shopify,
   Cybergen,
   Ecommerce,
+  Hexon,
 };
