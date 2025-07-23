@@ -28,11 +28,11 @@ import Xcode from "./tech/xcodeicon.png"
 import Python from "./tech/pythonicon.png"
 import Tensorflow from "./tech/tensorflowicon.png"
 import Shopify from "./tech/shopifyicon.png"
-
+import Ecommerce from "./company/newecom.png";
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import Cybergen from "./company/cglogo.png";
-import Ecommerce from "./company/ecommercelogo.png";
+
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
